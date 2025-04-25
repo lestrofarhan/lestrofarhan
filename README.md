@@ -1,3 +1,25 @@
+# 👋 Hi, I'm [Lestro Farhan]
+
+I'm a student at **SMIT (Batch 16)**, currently learning **Full Stack Web Development**.  
+Right now, I'm focused on building clean and responsive websites using **HTML**, **CSS**, and **JavaScript**.
+
+I also have experience with **WordPress**, which allows me to create professional and fully functional websites for clients and businesses.
+
+## 🚀 What I Know So Far
+- ✅ HTML5
+- ✅ CSS3
+- ✅ JavaScript (Basics to DOM)
+- ✅ WordPress (Themes, Plugins, Page Builders)
+
+## 🌱 Currently Learning
+- JavaScript Projects
+- Web Layouts & Design
+
+## 📫 Let's Connect
+- GitHub: [github.com/lestrofarhan](https://github.com/lestrofarhan)
+- Email: farhaneditztfg@gmail.com
+
+> I'm passionate about becoming a great developer and sharing my learning journey with the world 🌍
 ## Hi there 👋
 
 <!--
