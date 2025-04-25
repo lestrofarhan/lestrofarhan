@@ -20,7 +20,6 @@ I also have experience with **WordPress**, which allows me to create professiona
 - Email: farhaneditztfg@gmail.com
 
 > I'm passionate about becoming a great developer and sharing my learning journey with the world 🌍
-## Hi there 👋
 
 <!--
 **lestrofarhan/lestrofarhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
