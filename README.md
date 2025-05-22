@@ -9,7 +9,6 @@ I also have experience with **WordPress**, which allows me to create professiona
 - ✅ HTML5
 - ✅ CSS3
 - ✅ JavaScript (Basics to DOM)
-- ✅ WordPress (Themes, Plugins, Page Builders)
 
 ## 🌱 Currently Learning
 - JavaScript Projects
@@ -17,7 +16,7 @@ I also have experience with **WordPress**, which allows me to create professiona
 
 ## 📫 Let's Connect
 - GitHub: [github.com/lestrofarhan](https://github.com/lestrofarhan)
-- Email: farhaneditztfg@gmail.com
+- Email: lestrofarhan@gmail.com
 
 > I'm passionate about becoming a great developer and sharing my learning journey with the world 🌍
 
