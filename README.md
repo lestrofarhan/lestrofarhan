@@ -8,7 +8,7 @@ I also have experience with **WordPress**, which allows me to create professiona
 ## 🚀 What I Know So Far
 - ✅ HTML5
 - ✅ CSS3
-- ✅ JavaScript (Basics to DOM)
+- ✅ JavaScript
 
 ## 🌱 Currently Learning
 - JavaScript Projects
