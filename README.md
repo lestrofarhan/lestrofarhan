@@ -16,6 +16,7 @@ I also have experience with **WordPress**, which allows me to create professiona
 
 ## 📫 Let's Connect
 - GitHub: [github.com/lestrofarhan](https://github.com/lestrofarhan)
+- Portfolio: [portfolio/lestrofarhan](https://portfolio-lestrofarhan.vercel.app/)
 - Email: lestrofarhan@gmail.com
 
 > I'm passionate about becoming a great developer and sharing my learning journey with the world 🌍
